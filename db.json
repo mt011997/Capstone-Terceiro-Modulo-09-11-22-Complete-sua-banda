@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "axel@hotmail.com",
+      "password": "$2a$10$.EKSDCK..nMpawVPEWQW2uAD6GytQ8oNlZmmdC6zJ/LJuDAytiqCu",
+      "bio": "sou....",
+      "estate": "Paraná",
+      "social_media": "youtube",
+      "image": "http:/.....",
+      "type": "musician",
+      "name": "bruno",
+      "username": "axel",
+      "skill": "guitarrista",
+      "skill_level": "avançado",
+      "id": 1
+    },
+    {
+      "email": "banda1@hotmail.com",
+      "password": "$2a$10$0MUoLQmCEtA8x1BUCVqCAeWvv0GUMYyOHqHzA3RhKCPci30yE/y92",
+      "bio": "somos uma banda",
+      "estate": "Paraná",
+      "social_media": "youtube",
+      "genre": "rock",
+      "image": "http:/.....",
+      "type": "banda",
+      "name": "Banda",
+      "requirement": ["baterista", "vocal"],
+      "id": 2
+    }
+  ],
+  "members_invites": [],
+  "bands_invites": []
+}
